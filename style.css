@@ -1,0 +1,38 @@
+body {
+    font-family: sans-serif;
+    background-color: rgb(26,77,08);
+}
+
+h1 {
+    background-color: rgb(10, 179, 22);
+    color: rgb(0, 0, 0);
+    padding: 20px;
+    font-size: 60px;
+}
+
+img {
+    height: 75px;
+}
+
+p, ul {
+    font-size: 20px;
+}
+
+footer {
+    margin: 20px;
+}
+
+footer a{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    border: 1px solid rgb(0, 0, 0);
+    background-color: rgb(10, 179, 22);
+    padding: 5px;
+    border-radius: 10px;
+}
+P{
+
+
+
+}
